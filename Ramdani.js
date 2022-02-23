@@ -49,7 +49,7 @@ const toMs = require('ms')
 const axios = require("axios")
 const fs = require("fs-extra")
 const util = require('util')
-const got = require('got');
+import got from 'got';
 const qrcodes = require('qrcode');
 const imgbb = require('imgbb-uploader');
 const os = require('os');
