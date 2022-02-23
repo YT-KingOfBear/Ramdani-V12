@@ -80,8 +80,8 @@
   },
   "devDependencies": {},
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+    "type": "module",
+    "url": "https://github.com/dcode-denpa/bitch-boot.git"
   },
   "bugs": {
     "url": "https://github.com/dcode-denpa/bitch-boot/issues"
