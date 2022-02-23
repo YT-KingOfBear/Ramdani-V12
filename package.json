@@ -1,5 +1,5 @@
 {
-  "name": "RamdaniOfficial",
+  "name": "ramdani",
   "version": "0.0.1",
   "description": "© creator by ramdani official",
   "main": "main.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Ramdani Official",
+  "author": "Ramdani",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -80,8 +80,8 @@
   },
   "devDependencies": {},
   "repository": {
-    "type": "module",
-    "url": "https://github.com/dcode-denpa/bitch-boot.git"
+    "type": "git+",
+    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
   },
   "bugs": {
     "url": "https://github.com/dcode-denpa/bitch-boot/issues"
